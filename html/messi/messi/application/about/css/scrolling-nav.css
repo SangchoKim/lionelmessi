@@ -1,0 +1,44 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+header {
+  padding: 156px 0 100px;
+}
+
+section {
+  padding: 70px 0;
+}
+
+header{ background:linear-gradient(to bottom,rgba(69, 84, 149, 0.8) 0,rgba(54, 55, 83, 0.8) 100%),
+   url(../img/copy.jpg);
+}
+
+#about{
+  background:linear-gradient(to bottom,rgba(92, 41, 63, 0.8) 0,rgba(92, 66, 88, 0.8) 100%),
+     url(../img/country.png);
+}
+
+#flags{
+  text-align: center;
+  vertical-align: middle;
+}
+
+section.flag, section.language, section.capital{
+  padding: 30px 0;
+}
+
+#services{
+  background:linear-gradient(to bottom,rgba(111, 66, 167, 0.8) 0,rgba(73, 66, 92, 0.8) 100%),
+     url(../img/physical.jpg);
+}
+
+#contact{
+  background:linear-gradient(to bottom,rgba(174, 45, 68, 0.8) 0,rgba(86, 47, 71, 0.8) 100%),
+     url(../img/win.jpg);
+}
+
+.recordes{
+  padding-top: 30px;
+}
