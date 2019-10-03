@@ -34,96 +34,84 @@
 ![그림7](https://user-images.githubusercontent.com/36231361/66096184-2569db80-e5d5-11e9-8bab-1c2103e176ef.png)
 ![그림8](https://user-images.githubusercontent.com/36231361/66096182-2569db80-e5d5-11e9-88d2-e5f2cd807b3f.png)
 ![그림9](https://user-images.githubusercontent.com/36231361/66096183-2569db80-e5d5-11e9-8bf3-382cbb2237df.png)
-
 - Lionel Messi 선수의 커리어를 보여주는 공간
 
 ### <뉴스>
 
-![그림21](https://user-images.githubusercontent.com/36231361/65931781-10ab0d80-e446-11e9-9035-bd2bac02cbc6.png)
-![그림22](https://user-images.githubusercontent.com/36231361/65931783-1143a400-e446-11e9-84da-120392ec37db.png)
+![그림10](https://user-images.githubusercontent.com/36231361/66097221-7fb86b80-e5d8-11e9-8c14-b7860f54d4a3.png)
+![그림11](https://user-images.githubusercontent.com/36231361/66097222-80510200-e5d8-11e9-8f64-c280b7ada4de.png)
+![그림12](https://user-images.githubusercontent.com/36231361/66097223-80510200-e5d8-11e9-8bce-694143b96a88.png)
+![그림13](https://user-images.githubusercontent.com/36231361/66097225-80510200-e5d8-11e9-857e-6427b0268221.png)
+![그림14](https://user-images.githubusercontent.com/36231361/66097217-7f1fd500-e5d8-11e9-8d84-37d585d0c00e.png)
+![그림15](https://user-images.githubusercontent.com/36231361/66097218-7f1fd500-e5d8-11e9-8c2f-a9b264d617bd.png)
+![그림16](https://user-images.githubusercontent.com/36231361/66097219-7fb86b80-e5d8-11e9-992e-5022cc47af6e.png)
+![그림17](https://user-images.githubusercontent.com/36231361/66097220-7fb86b80-e5d8-11e9-831a-1a05b0b8e7a2.png)
+- Lionel Messi 선수의 기사들(Contents)을 보여주는 공간
+- 인스타그램 UI&UX 벤치마킹 -> 좋아요,댓글,공유,저장
+- 랭킹 기능 -> 각 기사들, 좋아요 순
 
-- 커플 중 한명이 이벤트를 일으켰을 경우, 알림창 페이지 상단에 나타남 
-- 알림 갯수, 알림 버튼 옆 추가(현재 업데이트중)
+### <상점>
 
-### <배경화면>
+![그림18](https://user-images.githubusercontent.com/36231361/66097557-c35fa500-e5d9-11e9-9ab1-d7ef1c2940eb.png)
+![그림19](https://user-images.githubusercontent.com/36231361/66097553-c2c70e80-e5d9-11e9-8f7d-7e462dd923e3.png)
+![그림20](https://user-images.githubusercontent.com/36231361/66097555-c2c70e80-e5d9-11e9-8e93-02fbc526344b.png)
+![그림21](https://user-images.githubusercontent.com/36231361/66097556-c35fa500-e5d9-11e9-94d1-56c2b2642f2f.png)
+- Lionel Messi 선수가 입는 상품(유니폼, 스타킹, 축구화)들을 판매하는 공간 
+- 상품 카테고리(유니폼, 스타킹, 축구화)에 따라 분류 
+- 상품 세부사항 및 결제, 장바구니 기능 구성 
 
-![그림23](https://user-images.githubusercontent.com/36231361/65931941-a3e44300-e446-11e9-86ca-363ab65bfc59.png)
+### <결제>
 
-- 커플들의 메인 화면 공간을 카메라&앨범 기능을 사용하여 취향대로 꾸밀 수 있는 환경 조성  
+![그림22](https://user-images.githubusercontent.com/36231361/66097847-01a99400-e5db-11e9-9556-0b1b37959657.png)
+![그림23](https://user-images.githubusercontent.com/36231361/66097848-01a99400-e5db-11e9-91ec-27a752549160.png)
+![그림24](https://user-images.githubusercontent.com/36231361/66097842-0110fd80-e5db-11e9-94b3-eab00f09bf81.png)
+![그림25](https://user-images.githubusercontent.com/36231361/66097844-0110fd80-e5db-11e9-9a7a-5c9d38011dcb.png)
+![그림26](https://user-images.githubusercontent.com/36231361/66097845-0110fd80-e5db-11e9-9b3d-843667e496e1.png)
+![그림27](https://user-images.githubusercontent.com/36231361/66097846-0110fd80-e5db-11e9-8cd1-b818d24ba4f9.png)
 
-### <기념일>
+- 상품 결제 및 주소록을 관리할 수 있는 공간
+- 주소록 관리(배송지 추가,자주가는 배송지 설정 등) 및 주소찾기 기능 추가
+- 결제시 카카오 페이 API 연동
 
-![그림24](https://user-images.githubusercontent.com/36231361/65932055-12c19c00-e447-11e9-8278-e59c70e95987.png)
+### <어드민>
 
-- 커플들만의 기념일 공유 공간
-- 기념일 추가(현재 업데이트중)
+![그림28](https://user-images.githubusercontent.com/36231361/66098233-bf815200-e5dc-11e9-82b9-1f78bf51a5c0.png)
+![그림29](https://user-images.githubusercontent.com/36231361/66098234-bf815200-e5dc-11e9-940d-bb472b6ba1c8.png)
+![그림30](https://user-images.githubusercontent.com/36231361/66098235-bf815200-e5dc-11e9-9556-8adaf03daf59.png)
+![그림31](https://user-images.githubusercontent.com/36231361/66098237-bf815200-e5dc-11e9-8414-06641e54f577.png)
+![그림32](https://user-images.githubusercontent.com/36231361/66098228-be502500-e5dc-11e9-9f8b-c3e15024bb88.png)
+![그림33](https://user-images.githubusercontent.com/36231361/66098229-be502500-e5dc-11e9-97bc-32adafb77be8.png)
+![그림34](https://user-images.githubusercontent.com/36231361/66098230-bee8bb80-e5dc-11e9-97b5-b1ddda098488.png)
+![그림35](https://user-images.githubusercontent.com/36231361/66098231-bee8bb80-e5dc-11e9-8f35-3c5dba21da84.png)
+![그림36](https://user-images.githubusercontent.com/36231361/66098232-bee8bb80-e5dc-11e9-82c4-99c01045292b.png)
+- 페이지를 관리하는 어드민 공간 
+- 어드민 권한 및 회원 상태 설정 기능 추가
+- 각 페이지(News, Shop) 상품 및 뉴스 추가, 수정, 삭제 기능 추가 
 
-### <캘린더>
+### <마이페이지>
 
-![그림25](https://user-images.githubusercontent.com/36231361/65932343-3df8bb00-e448-11e9-94ae-252037d61b18.png)
-![그림26](https://user-images.githubusercontent.com/36231361/65932344-3df8bb00-e448-11e9-9c22-1830bf30ac8f.png)
-![그림28](https://user-images.githubusercontent.com/36231361/65932346-3e915180-e448-11e9-8828-60f5b3399329.png)
-![그림27](https://user-images.githubusercontent.com/36231361/65932345-3df8bb00-e448-11e9-996d-463596b5536d.png)
-![그림29](https://user-images.githubusercontent.com/36231361/65932347-3e915180-e448-11e9-9426-10024c92a0ce.png)
+![그림37](https://user-images.githubusercontent.com/36231361/66098394-6d8cfc00-e5dd-11e9-9380-67875d97f4d0.png)
+![그림38](https://user-images.githubusercontent.com/36231361/66098396-6e259280-e5dd-11e9-8d22-a67c520c3c6d.png)
 
-- 커플들만의 추억을 만들어 나갈 수 있는 계획 및 일정을 공유하는 공간 
-- CRUD 기능 추가
-
-### <로딩>
-
-![그림30](https://user-images.githubusercontent.com/36231361/65932450-b52e4f00-e448-11e9-85c0-046b6e8d0066.png)
-
-- CSR의 단점을 극복하기 위해 Server에 접근할 때 Loading 창 보여줌
+- 유저의 개인정보를 수정 및 로그아웃을 할 수 있는 공간
+- News 페이지의 Save 기능으로 추가한 Contents들을 모아보기 할 수 있는 공간 마련
 
 ## 개발 환경 
-![stack](https://user-images.githubusercontent.com/36231361/65934010-bebab580-e44e-11e9-98fa-89ca56142496.png)
+![stack](https://user-images.githubusercontent.com/36231361/66098539-db392800-e5dd-11e9-93d3-2abb7dd203ed.png)
 
 ## API Reference
 
-#### <Login, SignUp>
-- Passport -> 로그인 기능 구현
-- Flash -> 로그인 실패시
+#### <어드민>
+- ckeditor5 -> Contents 수정 기능
 
-#### <공유 앨범>
-- Multer -> 이미지 파일 저장
-- LightBox -> 이미지 확대
-- imageEncoder -> 이미지 인코더
-- Cropper -> 이미지 자르기
-- WebCam -> 카메라 
-- InfiniteScroll -> 페이지네이션 
+#### <결제>
+- Kakao -> 카카오페이
+- 다음주소 -> 주소찾기
 
-#### <채팅>
-- Peer js + Sokect.io -> 화상통화 
-- Sokect.io -> 통신
-- Lottie -> 이모티콘
-- Player -> 동영상
-- imageEncoder -> 이미지 인코더
-- Uuid -> 고유 값
-- Multer -> 이미지 파일 저장
-- WebCam -> 카메라  
-- ReactMics -> 녹음
-- InfiniteScroll -> 페이지네이션
-
-#### <알림>
-- Sokect.io -> 통신
-- InfiniteScroll -> 페이지네이션
-
-#### <배경화면>
-- Multer -> 이미지 파일 저장
-- WebCam -> 카메라
-
-#### <기념일>
-- Moment -> 기념일 계산
-
-#### <캘린더>
-- DataPicker -> 달력
-- TimeInputLiv-> 시간
-- DataRangePicker -> 날짜 
- 
 ## 업데이트 내역
 
-* 0.1.0
-    * 출시 예정(릴리즈 예정)
+ 0.0.2
+    * 작업 완료    
 * 0.0.1
     * 작업 진행 중
 
