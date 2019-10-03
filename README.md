@@ -5,7 +5,7 @@
 > Lionel Messi의 커리어, 뉴스(인스타 방식), 상점(유니폼, 스타킹, 축구화)을 포함한 팬 페이지 
 
 ![Tech%2Fframework%20used-php-red](https://img.shields.io/badge/Tech%2Fframework%20used-php-red.svg)
-![Tech%2Fframework%20used-codeIgniter-yellow](https://img.shields.io/badge/Tech%2Fframework%20used-NodeJs-codeIgniter.svg)
+![Tech%2Fframework%20used-codeIgniter-yellow](https://img.shields.io/badge/Tech%2Fframework%20used-codeIgniter-yellow.svg)
 ![version-0.0.1-blue](https://img.shields.io/badge/version-0.0.1-blue)
 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/36231361/66094508-34e62600-e5cf-11e9-859b-4a2884afeea7.gif)
@@ -21,7 +21,7 @@
 - 팝업창 사용하여 회원가입 창 구성  
 - 메인 페이지로 접속하기 전 해당 로그인 필수
 
-### <Find PW>
+### <비밀번호 찾기>
 
 ![그림3](https://user-images.githubusercontent.com/36231361/66096013-83e28a00-e5d4-11e9-8a52-99f281b5cf50.png)
 ![그림4](https://user-images.githubusercontent.com/36231361/66096010-8349f380-e5d4-11e9-9937-52ba7c7680fd.png)
@@ -31,7 +31,7 @@
 - Mailing 기능 추가 
 - 비밀번호 찾기 기능 총 3단계(Mailing -> SecretCode -> UpdatePw)로 구성
 
-### <About>
+### <ABOUT>
 
 ![그림7](https://user-images.githubusercontent.com/36231361/66096184-2569db80-e5d5-11e9-8bab-1c2103e176ef.png)
 ![그림8](https://user-images.githubusercontent.com/36231361/66096182-2569db80-e5d5-11e9-88d2-e5f2cd807b3f.png)
