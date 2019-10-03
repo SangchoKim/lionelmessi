@@ -15,9 +15,8 @@
 
 ### <Login, SignUp>
 
-![그림1](https://user-images.githubusercontent.com/36231361/66095697-711b8580-e5d3-11e9-928a-40588286300a.png)
-![그림2](https://user-images.githubusercontent.com/36231361/66095698-711b8580-e5d3-11e9-94ac-ab8666c5e493.png)
-
+![그림1](https://user-images.githubusercontent.com/36231361/66096797-13893800-e5d7-11e9-8e08-5c51b31d383d.png)
+![그림2](https://user-images.githubusercontent.com/36231361/66096798-13893800-e5d7-11e9-9796-04d90f1947df.png)
 - 팝업창 사용하여 회원가입 창 구성  
 - 메인 페이지로 접속하기 전 해당 로그인 필수
 
@@ -27,7 +26,6 @@
 ![그림4](https://user-images.githubusercontent.com/36231361/66096010-8349f380-e5d4-11e9-9937-52ba7c7680fd.png)
 ![그림5](https://user-images.githubusercontent.com/36231361/66096011-83e28a00-e5d4-11e9-8aab-b8359882a76e.png)
 ![그림6](https://user-images.githubusercontent.com/36231361/66096012-83e28a00-e5d4-11e9-9e4f-c518c7df976d.png)
-
 - Mailing 기능 추가 
 - 비밀번호 찾기 기능 총 3단계(Mailing -> SecretCode -> UpdatePw)로 구성
 
