@@ -31,7 +31,7 @@
 - Mailing 기능 추가 
 - 비밀번호 찾기 기능 총 3단계(Mailing -> SecretCode -> UpdatePw)로 구성
 
-### <ABOUT>
+### <어바웃>
 
 ![그림7](https://user-images.githubusercontent.com/36231361/66096184-2569db80-e5d5-11e9-8bab-1c2103e176ef.png)
 ![그림8](https://user-images.githubusercontent.com/36231361/66096182-2569db80-e5d5-11e9-88d2-e5f2cd807b3f.png)
@@ -39,7 +39,7 @@
 
 - Lionel Messi 선수의 커리어를 보여주는 공간
 
-### <News>
+### <뉴스>
 
 ![그림21](https://user-images.githubusercontent.com/36231361/65931781-10ab0d80-e446-11e9-9035-bd2bac02cbc6.png)
 ![그림22](https://user-images.githubusercontent.com/36231361/65931783-1143a400-e446-11e9-84da-120392ec37db.png)
